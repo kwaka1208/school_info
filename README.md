@@ -6,25 +6,28 @@
 
 <a name="kouritsu">
 ## 公立小・中学校・義務教育学校（市町村別）
-最終確認日：2020年4月24日
+最終確認日：2020年4月28日
 
 以下の市町村で休校期間が変更になっています。
 
-生駒市、桜井市、平群町、三郷町、斑鳩町、安堵町、上牧町、王寺町、広陵町、河合町
+生駒市、桜井市、平群町、三郷町、斑鳩町、安堵町、上牧町、王寺町、広陵町、河合町、奈良市
 
 情報確認元はこちら
 <ul>
 	<li>
-		<a href="https://this.kiji.is/623823532359320673?c=476913576246887521" target="_blank">https://this.kiji.is/623823532359320673?c=476913576246887521</a>
+		<a href="https://this.kiji.is/623823532359320673?c=476913576246887521" target="_blank">【４／１７】奈良県内　小中学校　休校情報</a>
 	</li>
 	<li>
-		<a href="https://www3.nhk.or.jp/lnews/nara/20200424/2050004288.html" target="_blank">https://www3.nhk.or.jp/lnews/nara/20200424/2050004288.html</a>
+		<a href="https://www3.nhk.or.jp/lnews/nara/20200424/2050004288.html" target="_blank">生駒市など来月末まで休校延長</a>
+	</li>
+	<li>
+		<a href="https://www.msn.com/ja-jp/news/national/%E5%A5%88%E8%89%AF%E5%B8%82%E3%82%82%E8%87%A8%E6%99%82%E4%BC%91%E6%A0%A1%E3%82%92%E5%BB%B6%E9%95%B7-5%E6%9C%8831%E6%97%A5%E3%81%BE%E3%81%A7-%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96/ar-BB13imbn?ocid=msedgdhp" target="_blank">奈良市も臨時休校を延長 5月31日まで、コロナ対策 </a>
 	</li>
 </ul>
 
 |市町村|再開予定日|
 |:--:|:--:|
-|奈良市|5月07日|
+|奈良市|6月01日|
 |大和高田市|5月07日|
 |大和郡山市|5月07日|
 |天理市|5月07日|
